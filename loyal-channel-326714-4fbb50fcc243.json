@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loyal-channel-326714",
+  "private_key_id": "4fbb50fcc243c9c7367bb493e0c927f6157eeca8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjImn1056Iu0kU\nTFOfWIimvjglcOxH8y9QsWBXtxbx+6v8siSvTELbqc8mOKVP9rm030qZAI7Ahoq+\nJBsN9hScbf1RhgsBCbQ+FCCgisBeRH1tDMKLcxNCyRLDjzTt9hNLa1DUhttmAI1N\naKM0IJB6bVkHWCmIw7TqTlZvpB9djtwnUu1qkkqV+aMO8eK1RKROIyGW2+hvzhbj\nhrixaO7DU3x3NUXVXvVoDDDUqULbVzrnjX2IiehkYPllYO3bHgyCfMFPGZ64c33F\nsOTPnglbu/es/Wp7Q5xGe7XqaWMJiKgW8+0nOwaIoKD5a92ugyk6VxgrbfzuXxMi\nup3xY3WLAgMBAAECggEALmmMlvVxnboXBRDgG64vFq14wOI7Pw8nj4AfhmUfQJJX\nMKooOL1sKh3KQzgLhFAQLq72hMg9VPYSRB12mwa/f2/licumltGBd8X3MGW5bDh1\nLNDcCpufR7l4Pq4gI3GGtMbf9M83XXJbwUG7aQm4wTQaB7Zj/rabYqwN+G5LxCx7\nhznFBaHmJWMbJZgZH/4dY3QgOMUMn0tmA91HRYv90fV3yKxul/1L816PoA5oo1Nk\n5IGNyD6Dmmo5fIfPVXFk27wxuV+vQr8NrYdU8004DqGhSD//tw6hUpONUyZK9rEE\nXMbcllDrvGokKm8jNbhDF1DjJAx93SsT5On7ZbG+LQKBgQDhvKgWyb/84bEApkUY\niMfzajxuclTWRwH6BilMJVP5Q4VXMZKmmhpI0FjFBgEE5TCpvaQ0Ii1+WTCCOwRv\nDfm5KBCCfoJzmDtsSvMuvp5p41M5H93/po9jnqnZhaL25bcqwYbBCxeoZ0aGavng\npyEl2LGCGEqTjtyvMl9igWxjtwKBgQC5ATmOjD3U+UQTXJUcDrCjtytKrja37Arc\nXXeh51/7ET+emAu05fdXc5PULFJhNa9jj7ZGvvLlQaMuBeXJ8r6t6d8jKXVPDQw+\nXjsbMtxjH3GpvszjO+uYcGThrUfktXcCVKzTZh1P5su7HMBEZglwCdZ8VspVYVYR\nzpirQ71EzQKBgQCmjvDnf40tJcnYVNZ+t83xCN32EF4QjOwkcw9do91F+lAUefte\n+i2StEgLd9agqgsx8z+JR/6RT3W/YZRv7LvppmooHvhaGmUeDl9IilWQg68QYzcG\nPvtl4dgpK7WGvxBbd9fZ8DlQhINBAwXEgQywRCcVep7sKWkjy+MdZ6l2GQKBgG+F\nj36gh31krWbGfpQlPtHRzuT707xXK8zfAwi0AyXDpggiO5xWrB0pbMmP1jEHPazU\nqtpGrQEJ6iYKJBTyoYMQ4hO+IBsBEIpgH10r8bJG+CuM+tFYA5Mm3Yk0/Yue4Bil\nlnDws2bBB7rJgBU7NSE2rPbTErEZNdsSIPHMqcFZAoGAFTq+Fxu6Srz9HPBxQIwG\n03ubw4KaOadnP9H/EnBC6tcQZZZTp4ssj5Mcva3s408dTQ14VWySyyq/0BeNKje8\nLbXwR4FsKaoJVcnR7Csv6xW1XvI5XIOdgWU1GwTQePGag/v6vsdsdZbyZnlQ0h1z\nwwj/S67asaFxLTj3ASzNiSg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phptogooglesheet@loyal-channel-326714.iam.gserviceaccount.com",
+  "client_id": "118045033773771530312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phptogooglesheet%40loyal-channel-326714.iam.gserviceaccount.com"
+}
